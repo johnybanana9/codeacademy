@@ -1,0 +1,57 @@
+body {
+  padding-top: 50px; }
+
+.col-md-12 {
+  padding: 0;
+  margin: 0; }
+
+.box {
+  margin-bottom: 30px;
+  min-height: 300px;
+  border: 1px rgba(86, 61, 124, 0.15) solid; }
+  .box span {
+    top: 0px;
+    height: 50px;
+    background-color: rgba(86, 61, 124, 0.15);
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+    font-weight: 300; }
+  .box p {
+    padding: 10px; }
+  .box .btn {
+    margin: 10px; }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  min-height: 300px;
+  /* Set slide height here */ }
+
+.portfolio  {
+  margin-bottom: 30px; }
+.customerimg {
+    margin-bottom: 30px;
+  }
+
+.action {
+  background-color: rgba(86, 61, 124, 0.15);
+  border-radius: 5px;
+  padding: 25px; }
+
+.btn-lg {
+  width: 100%; }
+
+footer {
+  margin: 30px; }
+
+.team {
+  text-align: center; }
+  .team span {
+    color: rgba(86, 61, 124, 0.5); }
+  .team p {
+    padding-top: 10px; }
+  .team .fa-2x {
+    color: blue; }
+
+/*# sourceMappingURL=style.css.map */
